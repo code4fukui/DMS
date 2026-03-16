@@ -20,4 +20,4 @@ console.log(sdms2d("35 10 5N"));
 None. Runs in modern JavaScript environments.
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).
